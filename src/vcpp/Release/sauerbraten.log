@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  main.cpp
+  menus.cpp
+  ai.cpp
+  entities.cpp
+  fps.cpp
+  monster.cpp
+  movable.cpp
+  render.cpp
+D:\tillampningar\Sauerbraten\src\fpsgame\render.cpp(423,51): warning C4189: 'rotationroll': local variable is initialized but not referenced
+D:\tillampningar\Sauerbraten\src\fpsgame\render.cpp(423,15): warning C4189: 'rotationyaw': local variable is initialized but not referenced
+D:\tillampningar\Sauerbraten\src\fpsgame\render.cpp(423,32): warning C4189: 'rotationpitch': local variable is initialized but not referenced
+  scoreboard.cpp
+  waypoint.cpp
+  weapon.cpp
+  client.cpp
+  server.cpp
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  sauerbraten.vcxproj -> D:\tillampningar\Sauerbraten\bin\sauerbraten.exe
